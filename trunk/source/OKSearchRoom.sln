@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OKSearchRoom", "OKSearchRoom\OKSearchRoom.csproj", "{C07ADAFE-3040-4357-ABE1-CDE339001819}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OKSearchRoom", "OKSearchRoom\OKSearchRoom.csproj", "{C07ADAFE-3040-4357-ABE1-CDE339001819}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OKSearchRoomTest", "OKSearchRoomTest\OKSearchRoomTest.csproj", "{73942E8A-799D-4612-A105-EBED328DD3E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OKHeuristicSearchRoom", "OKHeuristicSearchRoom\OKHeuristicSearchRoom.csproj", "{E26B7633-D836-4743-B43C-16875F5043D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OKPriorityQueues", "OKPriorityQueues\OKPriorityQueues.csproj", "{FFD4D62E-EA83-402F-B32C-446BD44B4361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OKHeuristicSearchRoomTest", "OKHeuristicSearchRoomTest\OKHeuristicSearchRoomTest.csproj", "{1076E723-F394-425A-B393-6F6EA8EA3395}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{73942E8A-799D-4612-A105-EBED328DD3E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73942E8A-799D-4612-A105-EBED328DD3E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73942E8A-799D-4612-A105-EBED328DD3E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E26B7633-D836-4743-B43C-16875F5043D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26B7633-D836-4743-B43C-16875F5043D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26B7633-D836-4743-B43C-16875F5043D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26B7633-D836-4743-B43C-16875F5043D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD4D62E-EA83-402F-B32C-446BD44B4361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD4D62E-EA83-402F-B32C-446BD44B4361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD4D62E-EA83-402F-B32C-446BD44B4361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD4D62E-EA83-402F-B32C-446BD44B4361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1076E723-F394-425A-B393-6F6EA8EA3395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1076E723-F394-425A-B393-6F6EA8EA3395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1076E723-F394-425A-B393-6F6EA8EA3395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1076E723-F394-425A-B393-6F6EA8EA3395}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
