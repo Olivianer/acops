@@ -17,4 +17,9 @@
     <ProjectReference Include="..\OKSearchRoom\OKSearchRoom.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="bl\LloydPuzzle\" />
+    <Folder Include="bl\Queen\" />
+    <Folder Include="bl\TravelingSalesman\" />
+  </ItemGroup>
 </Project>
